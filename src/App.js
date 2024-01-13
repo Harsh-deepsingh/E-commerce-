@@ -1,9 +1,10 @@
-import { Counter } from './features/counter/Counter';
+
 import './App.css';
-//import ProductList from './features/product-list/ProductList';
 import Home from './pages/Home';
 import LoginPage from './pages/loginpage';
 import SignUpPage from './pages/signuppage';
+import CheckOut from './pages/CheckOut';
+
 
 
 import {
@@ -12,9 +13,9 @@ import {
   Route,
   Link,
 } from "react-router-dom";
-import Cart from './features/cart/Cart';
 
 import CartPageShop from './pages/CartPageShop';
+import ProductDetailPage from './pages/ProductDetailPage';
 
 const router = createBrowserRouter([
   {
@@ -29,10 +30,17 @@ const router = createBrowserRouter([
     path: "/signup",
     element: <SignUpPage></SignUpPage>,
   },
-  // on;y for testtin
   {
     path: "/cart",
     element: <CartPageShop></CartPageShop>,
+  },
+  {
+    path: "/checkout",
+    element: <CheckOut></CheckOut>,
+  },
+  {
+    path: "/product-detail",
+    element: <ProductDetailPage></ProductDetailPage>,
   },
 ]);
 
