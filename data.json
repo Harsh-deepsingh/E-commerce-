@@ -1,0 +1,475 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "title": "iPhone 9",
+      "description": "An apple mobile which is nothing like apple",
+      "price": 549,
+      "discountPercentage": 12.96,
+      "rating": 4.69,
+      "stock": 94,
+      "brand": "Apple",
+      "category": "smartphones",
+      "thumbnail": "https://specifications-pro.com/wp-content/uploads/2020/03/iPhone-9-600x600.jpeg",
+      "images": [
+        "https://specifications-pro.com/wp-content/uploads/2020/03/iPhone-9-600x600.jpeg",
+        "https://specifications-pro.com/wp-content/uploads/2020/03/iPhone-9-600x600.jpeg",
+        "https://specifications-pro.com/wp-content/uploads/2020/03/iPhone-9-600x600.jpeg",
+        "https://specifications-pro.com/wp-content/uploads/2020/03/iPhone-9-600x600.jpeg"
+      ]
+    },
+    {
+      "id": "1",
+      "title": "iPhone 9",
+      "description": "An apple mobile which is nothing like apple",
+      "price": 549,
+      "discountPercentage": 12.96,
+      "rating": 4.69,
+      "stock": 94,
+      "brand": "Apple",
+      "category": "smartphones",
+      "thumbnail": "https://specifications-pro.com/wp-content/uploads/2020/03/iPhone-9-600x600.jpeg",
+      "images": [
+        "https://specifications-pro.com/wp-content/uploads/2020/03/iPhone-9-600x600.jpeg",
+        "https://specifications-pro.com/wp-content/uploads/2020/03/iPhone-9-600x600.jpeg",
+        "https://specifications-pro.com/wp-content/uploads/2020/03/iPhone-9-600x600.jpeg",
+        "https://specifications-pro.com/wp-content/uploads/2020/03/iPhone-9-600x600.jpeg"
+      ]
+    },
+    {
+      "id": "1",
+      "title": "iPhone 9",
+      "description": "An apple mobile which is nothing like apple",
+      "price": 549,
+      "discountPercentage": 12.96,
+      "rating": 4.69,
+      "stock": 94,
+      "brand": "Apple",
+      "category": "smartphones",
+      "thumbnail": "https://specifications-pro.com/wp-content/uploads/2020/03/iPhone-9-600x600.jpeg",
+      "images": [
+        "https://specifications-pro.com/wp-content/uploads/2020/03/iPhone-9-600x600.jpeg",
+        "https://specifications-pro.com/wp-content/uploads/2020/03/iPhone-9-600x600.jpeg",
+        "https://specifications-pro.com/wp-content/uploads/2020/03/iPhone-9-600x600.jpeg",
+        "https://specifications-pro.com/wp-content/uploads/2020/03/iPhone-9-600x600.jpeg"
+      ]
+    },
+    {
+      "id": "1",
+      "title": "iPhone 9",
+      "description": "An apple mobile which is nothing like apple",
+      "price": 549,
+      "discountPercentage": 12.96,
+      "rating": 4.69,
+      "stock": 94,
+      "brand": "Apple",
+      "category": "smartphones",
+      "thumbnail": "https://specifications-pro.com/wp-content/uploads/2020/03/iPhone-9-600x600.jpeg",
+      "images": [
+        "https://specifications-pro.com/wp-content/uploads/2020/03/iPhone-9-600x600.jpeg",
+        "https://specifications-pro.com/wp-content/uploads/2020/03/iPhone-9-600x600.jpeg",
+        "https://specifications-pro.com/wp-content/uploads/2020/03/iPhone-9-600x600.jpeg",
+        "https://specifications-pro.com/wp-content/uploads/2020/03/iPhone-9-600x600.jpeg"
+      ]
+    },
+    {
+      "id": "1",
+      "title": "iPhone 9",
+      "description": "An apple mobile which is nothing like apple",
+      "price": 549,
+      "discountPercentage": 12.96,
+      "rating": 4.69,
+      "stock": 94,
+      "brand": "Apple",
+      "category": "smartphones",
+      "thumbnail": "https://specifications-pro.com/wp-content/uploads/2020/03/iPhone-9-600x600.jpeg",
+      "images": [
+        "https://specifications-pro.com/wp-content/uploads/2020/03/iPhone-9-600x600.jpeg",
+        "https://specifications-pro.com/wp-content/uploads/2020/03/iPhone-9-600x600.jpeg",
+        "https://specifications-pro.com/wp-content/uploads/2020/03/iPhone-9-600x600.jpeg",
+        "https://specifications-pro.com/wp-content/uploads/2020/03/iPhone-9-600x600.jpeg"
+      ]
+    },
+    {
+      "id": "1",
+      "title": "iPhone 9",
+      "description": "An apple mobile which is nothing like apple",
+      "price": 549,
+      "discountPercentage": 12.96,
+      "rating": 4.69,
+      "stock": 94,
+      "brand": "Apple",
+      "category": "smartphones",
+      "thumbnail": "https://specifications-pro.com/wp-content/uploads/2020/03/iPhone-9-600x600.jpeg",
+      "images": [
+        "https://specifications-pro.com/wp-content/uploads/2020/03/iPhone-9-600x600.jpeg",
+        "https://specifications-pro.com/wp-content/uploads/2020/03/iPhone-9-600x600.jpeg",
+        "https://specifications-pro.com/wp-content/uploads/2020/03/iPhone-9-600x600.jpeg",
+        "https://specifications-pro.com/wp-content/uploads/2020/03/iPhone-9-600x600.jpeg"
+      ]
+    },
+    {
+      "id": "1",
+      "title": "iPhone 9",
+      "description": "An apple mobile which is nothing like apple",
+      "price": 549,
+      "discountPercentage": 12.96,
+      "rating": 4.69,
+      "stock": 94,
+      "brand": "Apple",
+      "category": "smartphones",
+      "thumbnail": "https://specifications-pro.com/wp-content/uploads/2020/03/iPhone-9-600x600.jpeg",
+      "images": [
+        "https://specifications-pro.com/wp-content/uploads/2020/03/iPhone-9-600x600.jpeg",
+        "https://specifications-pro.com/wp-content/uploads/2020/03/iPhone-9-600x600.jpeg",
+        "https://specifications-pro.com/wp-content/uploads/2020/03/iPhone-9-600x600.jpeg",
+        "https://specifications-pro.com/wp-content/uploads/2020/03/iPhone-9-600x600.jpeg"
+      ]
+    },
+    {
+      "id": "1",
+      "title": "iPhone 9",
+      "description": "An apple mobile which is nothing like apple",
+      "price": 549,
+      "discountPercentage": 12.96,
+      "rating": 4.69,
+      "stock": 94,
+      "brand": "Apple",
+      "category": "smartphones",
+      "thumbnail": "https://specifications-pro.com/wp-content/uploads/2020/03/iPhone-9-600x600.jpeg",
+      "images": [
+        "https://specifications-pro.com/wp-content/uploads/2020/03/iPhone-9-600x600.jpeg",
+        "https://specifications-pro.com/wp-content/uploads/2020/03/iPhone-9-600x600.jpeg",
+        "https://specifications-pro.com/wp-content/uploads/2020/03/iPhone-9-600x600.jpeg",
+        "https://specifications-pro.com/wp-content/uploads/2020/03/iPhone-9-600x600.jpeg"
+      ]
+    },
+    {
+      "id": "1",
+      "title": "iPhone 9",
+      "description": "An apple mobile which is nothing like apple",
+      "price": 549,
+      "discountPercentage": 12.96,
+      "rating": 4.69,
+      "stock": 94,
+      "brand": "Apple",
+      "category": "smartphones",
+      "thumbnail": "https://specifications-pro.com/wp-content/uploads/2020/03/iPhone-9-600x600.jpeg",
+      "images": [
+        "https://specifications-pro.com/wp-content/uploads/2020/03/iPhone-9-600x600.jpeg",
+        "https://specifications-pro.com/wp-content/uploads/2020/03/iPhone-9-600x600.jpeg",
+        "https://specifications-pro.com/wp-content/uploads/2020/03/iPhone-9-600x600.jpeg",
+        "https://specifications-pro.com/wp-content/uploads/2020/03/iPhone-9-600x600.jpeg"
+      ]
+    },
+    {
+      "id": "2",
+      "title": "iPhone X",
+      "description": "SIM-Free, Model A19211 6.5-inch Super Retina HD display with OLED technology A12 Bionic chip with ...",
+      "price": 899,
+      "discountPercentage": 17.94,
+      "rating": 4.44,
+      "stock": 34,
+      "brand": "Apple",
+      "category": "smartphones",
+      "thumbnail": "https://www.phoneshock.it/wp-content/uploads/2021/03/iPhone_Xr_-_Black_d0304818-1f73-4e48-97a8-e8f134695035_3442x-2048x2048.png",
+      "images": [
+        "https://www.phoneshock.it/wp-content/uploads/2021/03/iPhone_Xr_-_Black_d0304818-1f73-4e48-97a8-e8f134695035_3442x-2048x2048.png",
+        "https://www.phoneshock.it/wp-content/uploads/2021/03/iPhone_Xr_-_Black_d0304818-1f73-4e48-97a8-e8f134695035_3442x-2048x2048.png",
+        "https://www.phoneshock.it/wp-content/uploads/2021/03/iPhone_Xr_-_Black_d0304818-1f73-4e48-97a8-e8f134695035_3442x-2048x2048.png",
+        "https://www.phoneshock.it/wp-content/uploads/2021/03/iPhone_Xr_-_Black_d0304818-1f73-4e48-97a8-e8f134695035_3442x-2048x2048.png"
+      ]
+    }
+  ],
+  "brands": [
+    {
+      "value": "Apple",
+      "label": "Apple",
+      "checked": false,
+      "id": "e292"
+    },
+    {
+      "value": "Samsung",
+      "label": "Samsung",
+      "checked": false,
+      "id": "1792"
+    }
+  ],
+  "categories": [
+    {
+      "value": "smartphones",
+      "label": "smartphones",
+      "checked": false,
+      "id": "2f46"
+    },
+    {
+      "value": "laptops",
+      "label": "laptops",
+      "checked": false,
+      "id": "ae0b"
+    }
+  ],
+  "users": [
+    {
+      "id": "388a",
+      "email": "robinsuthar.rs07@gmail.com",
+      "password": "B@bybaby123",
+      "addresses": [
+        {
+          "name": "Harshdeep singh",
+          "email": "harshmaan9828@gmail.com",
+          "phone": "4039511652",
+          "street": "Aquila drive NW",
+          "city": "Calgary",
+          "state": "Alberta",
+          "pinCode": "T3R1Z1"
+        }
+      ]
+    }
+  ],
+  "cart": [],
+  "orders": [
+    {
+      "id": "a499",
+      "items": [
+        {
+          "id": "3bd8",
+          "title": "iPhone 9",
+          "description": "An apple mobile which is nothing like apple",
+          "price": 549,
+          "discountPercentage": 12.96,
+          "rating": 4.69,
+          "stock": 94,
+          "brand": "Apple",
+          "category": "smartphones",
+          "thumbnail": "https://specifications-pro.com/wp-content/uploads/2020/03/iPhone-9-600x600.jpeg",
+          "images": [
+            "https://specifications-pro.com/wp-content/uploads/2020/03/iPhone-9-600x600.jpeg",
+            "https://specifications-pro.com/wp-content/uploads/2020/03/iPhone-9-600x600.jpeg",
+            "https://specifications-pro.com/wp-content/uploads/2020/03/iPhone-9-600x600.jpeg",
+            "https://specifications-pro.com/wp-content/uploads/2020/03/iPhone-9-600x600.jpeg"
+          ],
+          "quantity": 1,
+          "user": "388a"
+        }
+      ],
+      "totalAmount": 549,
+      "totalItems": 1,
+      "user": {
+        "id": "388a",
+        "email": "robinsuthar.rs07@gmail.com",
+        "password": "B@bybaby123",
+        "addresses": [
+          {
+            "name": "Harshdeep singh",
+            "email": "harshmaan9828@gmail.com",
+            "phone": "4039511652",
+            "street": "Aquila drive NW",
+            "city": "Calgary",
+            "state": "Alberta",
+            "pinCode": "T3R1Z1"
+          }
+        ]
+      },
+      "paymentMethod": "cash",
+      "selectedAddress": {
+        "name": "Harshdeep singh",
+        "email": "harshmaan9828@gmail.com",
+        "phone": "4039511652",
+        "street": "Aquila drive NW",
+        "city": "Calgary",
+        "state": "Alberta",
+        "pinCode": "T3R1Z1"
+      },
+      "status": "pending"
+    },
+    {
+      "id": "52a8",
+      "items": [
+        {
+          "id": "1f19",
+          "title": "iPhone 9",
+          "description": "An apple mobile which is nothing like apple",
+          "price": 549,
+          "discountPercentage": 12.96,
+          "rating": 4.69,
+          "stock": 94,
+          "brand": "Apple",
+          "category": "smartphones",
+          "thumbnail": "https://specifications-pro.com/wp-content/uploads/2020/03/iPhone-9-600x600.jpeg",
+          "images": [
+            "https://specifications-pro.com/wp-content/uploads/2020/03/iPhone-9-600x600.jpeg",
+            "https://specifications-pro.com/wp-content/uploads/2020/03/iPhone-9-600x600.jpeg",
+            "https://specifications-pro.com/wp-content/uploads/2020/03/iPhone-9-600x600.jpeg",
+            "https://specifications-pro.com/wp-content/uploads/2020/03/iPhone-9-600x600.jpeg"
+          ],
+          "quantity": 1,
+          "user": "388a"
+        },
+        {
+          "id": "b6ce",
+          "title": "iPhone 9",
+          "description": "An apple mobile which is nothing like apple",
+          "price": 549,
+          "discountPercentage": 12.96,
+          "rating": 4.69,
+          "stock": 94,
+          "brand": "Apple",
+          "category": "smartphones",
+          "thumbnail": "https://specifications-pro.com/wp-content/uploads/2020/03/iPhone-9-600x600.jpeg",
+          "images": [
+            "https://specifications-pro.com/wp-content/uploads/2020/03/iPhone-9-600x600.jpeg",
+            "https://specifications-pro.com/wp-content/uploads/2020/03/iPhone-9-600x600.jpeg",
+            "https://specifications-pro.com/wp-content/uploads/2020/03/iPhone-9-600x600.jpeg",
+            "https://specifications-pro.com/wp-content/uploads/2020/03/iPhone-9-600x600.jpeg"
+          ],
+          "quantity": 1,
+          "user": "388a"
+        },
+        {
+          "id": "d65a",
+          "title": "iPhone 9",
+          "description": "An apple mobile which is nothing like apple",
+          "price": 549,
+          "discountPercentage": 12.96,
+          "rating": 4.69,
+          "stock": 94,
+          "brand": "Apple",
+          "category": "smartphones",
+          "thumbnail": "https://specifications-pro.com/wp-content/uploads/2020/03/iPhone-9-600x600.jpeg",
+          "images": [
+            "https://specifications-pro.com/wp-content/uploads/2020/03/iPhone-9-600x600.jpeg",
+            "https://specifications-pro.com/wp-content/uploads/2020/03/iPhone-9-600x600.jpeg",
+            "https://specifications-pro.com/wp-content/uploads/2020/03/iPhone-9-600x600.jpeg",
+            "https://specifications-pro.com/wp-content/uploads/2020/03/iPhone-9-600x600.jpeg"
+          ],
+          "quantity": 1,
+          "user": "388a"
+        },
+        {
+          "id": "3a94",
+          "title": "iPhone 9",
+          "description": "An apple mobile which is nothing like apple",
+          "price": 549,
+          "discountPercentage": 12.96,
+          "rating": 4.69,
+          "stock": 94,
+          "brand": "Apple",
+          "category": "smartphones",
+          "thumbnail": "https://specifications-pro.com/wp-content/uploads/2020/03/iPhone-9-600x600.jpeg",
+          "images": [
+            "https://specifications-pro.com/wp-content/uploads/2020/03/iPhone-9-600x600.jpeg",
+            "https://specifications-pro.com/wp-content/uploads/2020/03/iPhone-9-600x600.jpeg",
+            "https://specifications-pro.com/wp-content/uploads/2020/03/iPhone-9-600x600.jpeg",
+            "https://specifications-pro.com/wp-content/uploads/2020/03/iPhone-9-600x600.jpeg"
+          ],
+          "quantity": 1,
+          "user": "388a"
+        }
+      ],
+      "totalAmount": 2196,
+      "totalItems": 4,
+      "user": {
+        "id": "388a",
+        "email": "robinsuthar.rs07@gmail.com",
+        "password": "B@bybaby123",
+        "addresses": [
+          {
+            "name": "Harshdeep singh",
+            "email": "harshmaan9828@gmail.com",
+            "phone": "4039511652",
+            "street": "Aquila drive NW",
+            "city": "Calgary",
+            "state": "Alberta",
+            "pinCode": "T3R1Z1"
+          }
+        ]
+      },
+      "paymentMethod": "cash",
+      "selectedAddress": {
+        "name": "Harshdeep singh",
+        "email": "harshmaan9828@gmail.com",
+        "phone": "4039511652",
+        "street": "Aquila drive NW",
+        "city": "Calgary",
+        "state": "Alberta",
+        "pinCode": "T3R1Z1"
+      },
+      "status": "pending"
+    },
+    {
+      "id": "a9d4",
+      "items": [
+        {
+          "id": "7e34",
+          "title": "iPhone 9",
+          "description": "An apple mobile which is nothing like apple",
+          "price": 549,
+          "discountPercentage": 12.96,
+          "rating": 4.69,
+          "stock": 94,
+          "brand": "Apple",
+          "category": "smartphones",
+          "thumbnail": "https://specifications-pro.com/wp-content/uploads/2020/03/iPhone-9-600x600.jpeg",
+          "images": [
+            "https://specifications-pro.com/wp-content/uploads/2020/03/iPhone-9-600x600.jpeg",
+            "https://specifications-pro.com/wp-content/uploads/2020/03/iPhone-9-600x600.jpeg",
+            "https://specifications-pro.com/wp-content/uploads/2020/03/iPhone-9-600x600.jpeg",
+            "https://specifications-pro.com/wp-content/uploads/2020/03/iPhone-9-600x600.jpeg"
+          ],
+          "quantity": 1,
+          "user": "388a"
+        },
+        {
+          "id": "c7fe",
+          "title": "iPhone 9",
+          "description": "An apple mobile which is nothing like apple",
+          "price": 549,
+          "discountPercentage": 12.96,
+          "rating": 4.69,
+          "stock": 94,
+          "brand": "Apple",
+          "category": "smartphones",
+          "thumbnail": "https://specifications-pro.com/wp-content/uploads/2020/03/iPhone-9-600x600.jpeg",
+          "images": [
+            "https://specifications-pro.com/wp-content/uploads/2020/03/iPhone-9-600x600.jpeg",
+            "https://specifications-pro.com/wp-content/uploads/2020/03/iPhone-9-600x600.jpeg",
+            "https://specifications-pro.com/wp-content/uploads/2020/03/iPhone-9-600x600.jpeg",
+            "https://specifications-pro.com/wp-content/uploads/2020/03/iPhone-9-600x600.jpeg"
+          ],
+          "quantity": 1,
+          "user": "388a"
+        }
+      ],
+      "totalAmount": 1098,
+      "totalItems": 2,
+      "user": {
+        "id": "388a",
+        "email": "robinsuthar.rs07@gmail.com",
+        "password": "B@bybaby123",
+        "addresses": [
+          {
+            "name": "Harshdeep singh",
+            "email": "harshmaan9828@gmail.com",
+            "phone": "4039511652",
+            "street": "Aquila drive NW",
+            "city": "Calgary",
+            "state": "Alberta",
+            "pinCode": "T3R1Z1"
+          }
+        ]
+      },
+      "paymentMethod": "card",
+      "selectedAddress": {
+        "name": "Harshdeep singh",
+        "email": "harshmaan9828@gmail.com",
+        "phone": "4039511652",
+        "street": "Aquila drive NW",
+        "city": "Calgary",
+        "state": "Alberta",
+        "pinCode": "T3R1Z1"
+      },
+      "status": "pending"
+    }
+  ]
+}
