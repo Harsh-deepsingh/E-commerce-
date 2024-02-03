@@ -470,6 +470,60 @@
         "pinCode": "T3R1Z1"
       },
       "status": "pending"
+    },
+    {
+      "id": "cb0a",
+      "items": [
+        {
+          "id": "0e81",
+          "title": "iPhone 9",
+          "description": "An apple mobile which is nothing like apple",
+          "price": 549,
+          "discountPercentage": 12.96,
+          "rating": 4.69,
+          "stock": 94,
+          "brand": "Apple",
+          "category": "smartphones",
+          "thumbnail": "https://specifications-pro.com/wp-content/uploads/2020/03/iPhone-9-600x600.jpeg",
+          "images": [
+            "https://specifications-pro.com/wp-content/uploads/2020/03/iPhone-9-600x600.jpeg",
+            "https://specifications-pro.com/wp-content/uploads/2020/03/iPhone-9-600x600.jpeg",
+            "https://specifications-pro.com/wp-content/uploads/2020/03/iPhone-9-600x600.jpeg",
+            "https://specifications-pro.com/wp-content/uploads/2020/03/iPhone-9-600x600.jpeg"
+          ],
+          "quantity": 1,
+          "user": "388a"
+        }
+      ],
+      "totalAmount": 549,
+      "totalItems": 1,
+      "user": {
+        "id": "388a",
+        "email": "robinsuthar.rs07@gmail.com",
+        "password": "B@bybaby123",
+        "addresses": [
+          {
+            "name": "Harshdeep singh",
+            "email": "harshmaan9828@gmail.com",
+            "phone": "4039511652",
+            "street": "Aquila drive NW",
+            "city": "Calgary",
+            "state": "Alberta",
+            "pinCode": "T3R1Z1"
+          }
+        ]
+      },
+      "paymentMethod": "cash",
+      "selectedAddress": {
+        "name": "Harshdeep singh",
+        "email": "harshmaan9828@gmail.com",
+        "phone": "4039511652",
+        "street": "Aquila drive NW",
+        "city": "Calgary",
+        "state": "Alberta",
+        "pinCode": "T3R1Z1"
+      },
+      "status": "pending"
     }
   ]
 }
