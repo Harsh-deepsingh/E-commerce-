@@ -29,22 +29,23 @@ const Info = () => {
             <li className='mb-3'>Alberta Specials</li>
             <li className='mb-3'>BC Specials</li>
             <li className='mb-3'>Case Discount</li>
-        </div>
-        <div className='w-[1000px] mt-5 font-semibold m-10 grid grid-cols-2 '>
-            <div>
-                <p>© 2024 Liqour. All rights reserved.</p>
-            </div>
-            <div className='flex justify-end gap-3'>
-            <a href="https://www.linkedin.com/in/harshdeepsingh9828" target="_blank" rel="noopener noreferrer">
+            <div className='flex mt-10 gap-3'>
+            <a href="https://www.linkedin.com/in/harshdeepsingh9828" target="_blank" rel="no">
                 <img className='w-[27px]' src='https://img.freepik.com/premium-vector/black-facebook-logo-social-media-logo_197792-7352.jpg?w=740'/>
                 </a>
-                <a href="https://www.linkedin.com/in/harshdeepsingh9828" target="_blank" rel="noopener noreferrer">
+                <a href="https://www.linkedin.com/in/harshdeepsingh9828" target="_blank" rel="opener ">
                 <img className='w-[22px] h-6 mt-[1px]' src='https://img.freepik.com/premium-photo/3d-render-camera-icon-isolated-white-background-camera-logo-web-site-app-ui-logo_640106-982.jpg?w=740'/>
                 </a>
-                <a href="https://www.linkedin.com/in/harshdeepsingh9828" target="_blank" rel="noopener noreferrer">
+                <a href="https://www.linkedin.com/in/harshdeepsingh9828" target="_blank" rel="referrer">
                 <img className='w-[23px] mb-[1px]' src='https://img.freepik.com/premium-vector/linkedin_628407-1657.jpg?w=740'/>
                 </a>
                 </div>
+        </div>
+        <div className='w-[1000px] mt-0 font-semibold m-0 grid grid-cols-2 '>
+            <div>
+                <p>© 2024 E-Commerce. All rights reserved.</p>
+            </div>
+
         </div>
     </div>
   )

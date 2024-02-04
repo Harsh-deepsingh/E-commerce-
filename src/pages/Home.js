@@ -6,7 +6,6 @@ function Home() {
     return ( 
         <div>
             <NavBar>
-                <ImageCard />
                 <ProductList></ProductList>
                 <Info></Info>
             </NavBar>

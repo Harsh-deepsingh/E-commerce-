@@ -7,23 +7,6 @@ import { useParams } from 'react-router-dom';
 import { addToCartAsync } from '../../cart/cartSlice';
 import { selectLoggedInUser } from '../../auth/authSlice';
 
-// TODO: In server data we will add colors, sizes , highlights. to each product
-
-// const colors = [
-//   { name: 'White', class: 'bg-white', selectedClass: 'ring-gray-400' },
-//   { name: 'Gray', class: 'bg-gray-200', selectedClass: 'ring-gray-400' },
-//   { name: 'Black', class: 'bg-gray-900', selectedClass: 'ring-gray-900' },
-// ];
-// const sizes = [
-//   { name: 'XXS', inStock: false },
-//   { name: 'XS', inStock: true },
-//   { name: 'S', inStock: true },
-//   { name: 'M', inStock: true },
-//   { name: 'L', inStock: true },
-//   { name: 'XL', inStock: true },
-//   { name: '2XL', inStock: true },
-//   { name: '3XL', inStock: true },
-// ];
 
 const highlights = [
   'Hand cut and sewn locally',
@@ -319,10 +302,10 @@ export default function ProductDetail() {
                   </p>
                 </div>
               </div>
-
+{/* 
               <div className="mt-10">
                 <h3 className="text-sm font-medium text-gray-900">
-                  Highlights
+
                 </h3>
 
                 <div className="mt-4">
@@ -334,7 +317,7 @@ export default function ProductDetail() {
                       ))}
                   </ul>
                 </div>
-              </div>
+              </div> */}
 
               <div className="mt-10">
                 <h2 className="text-sm font-medium text-gray-900">Details</h2>
